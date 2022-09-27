@@ -1,4 +1,4 @@
-![SamagraX_Logo1](https://user-images.githubusercontent.com/80503666/192439714-88a6896b-e6d0-420c-bc35-8b0a8101a9ad.png)
+![SamagraX - Logo](https://user-images.githubusercontent.com/80503666/192478957-151e96e8-bb70-4b59-9837-418dc58c8c0d.jpg)
 
 At SamagraX, we build & shape open-source population-scale products, platforms & protocols, in the form of Building Blocks (BBs) and Digital Public Goods (DPGs) that empower governments to leverage technology and data to transform lives of millions. 
 
@@ -12,10 +12,9 @@ So far, we’ve shaped 10+ BBs and 3 DPGs to deliver on 20+ products across doma
 
 ![SamagraX summary](https://user-images.githubusercontent.com/80503666/192477510-f2fc35b0-b3fc-438e-bc9a-fc4fe90ef69c.jpg)
 
-
 Outlined below are some of the key contributions that we’ve made at SamagraX so far:
 
-1. Building Blocks (BBs)
+**1. Building Blocks (BBs)**
 1.1. Built ourselves from scratch
 - User Service : An OIDC compliant extensible user authentication and authorization service that includes key features such as passwordless authentication and attribute based access control (ABAC).
 Key Adopters - Himachal Pradesh’s eSamwad App (1+ lac teachers), Uttar Pradesh’s Nipun Lakshya App (2+ lac  teachers, 4K mentors)
@@ -60,7 +59,7 @@ Key Adopters - Integrated Command and Control Center (ICCC) in Himachal Pradesh
 - Recommendation Engine : Metarank is being leveraged to push content recommendation for farmers (about farming practices, fertilizers, pesticides etc) in the form of audio content through IVRS calls based on farmer characteristics, content consumption history and similar farmer preferences. 
 Key adopters - Odisha’s farmer agro-advisory IVRS setup (65+ lac farmers)
 
-2. Digital Public Goods (DPGs)
+**2. Digital Public Goods (DPGs)**
 - Unified Communications Interface (UCI) : A configurable platform to enable multi-channel, personalized chatbot conversations and nudges across various channels such as WhatsApp, Telegram, SMS, email, etc. for governance use cases across sectors such as education, employment, agriculture and so on. UCI has been contributed as a core Sunbird building block and is recognised as a certified DPG by the Digital Public Goods Alliance (DPGA) and Digital Impact Alliance (DIAL)
 Key Adopters - UCI is powering MoE DIKSHA’s Tara WhatsApp Bot
 
@@ -70,7 +69,7 @@ Key Adopters - Shiksha’s Spot Assessment module is being integrated in Himacha
 - Prashnavali : An NEP-compliant solution built using Sunbird building blocks (cokreat, InQuiry and Knowlg) for the creation of crowdsourced competency-based questions, question bank and question papers to be consumed by users for practice and assessments phygitally. Prashnavali as a solution can be extended beyond education for any assessment or administrative surveying needs
 Key Adopters - Prashnavali is being used by teachers in Haryana and Himachal Pradesh for creating practise worksheets and assessments
 
-3. Community Building Initiatives
+**Community Building Initiatives**
 - Code for GovTech (C4GT) - C4GT was launched in May 2022 as an annual summer coding program for engineering students across the country, offering them the opportunity to work on live open-source projects aimed at solving governance challenges, with 1:1 mentorship from experienced practitioners in leading GovTech organizations. The year was the first edition of C4GT and was brought to life as a pilot to gather learnings & lay a solid foundation. 9 open-source GovTech projects were identified to give the cohort an opportunity to work on live Digital Public Goods such as Sunbird QuML, UCI, Shiksha, among others. A total of 346 applications were received this year from students across 57 engineering colleges, and 13 students were selected as contributors for C4GT 2022. 
 
 ![WhatsApp Image 2022-09-22 at 6 04 55 PM](https://user-images.githubusercontent.com/80503666/192440242-10c93e86-a844-4e8b-8e18-5a577caa9241.jpeg)
