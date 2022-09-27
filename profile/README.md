@@ -56,8 +56,6 @@ Outlined below are some of the key contributions that we’ve made at SamagraX s
 
 ![WhatsApp Image 2022-09-22 at 6 04 55 PM](https://user-images.githubusercontent.com/80503666/192440242-10c93e86-a844-4e8b-8e18-5a577caa9241.jpeg)
 
-For more details, please visit : Website | Github | Youtube | Discord | LinkedIn 
-
 - Work From Campus (WFC) Program - WFC is a year-long internship opportunity for 3rd/4th year engineering students to get paid hands-on experience & exposure to the GovTech space. The program entails 1:1 personalized & structured coaching, exposure to DPG ecosystem through expert interactions and online forums, a 3-month product management course, rigorous field immersion visits for exposure to on-ground governance machinery and assured full-time opportunity with SamagraX as an owner of multiple GovTech building blocks and products. So far, 8 WFC interns have been onboarded in the current year.
 
 ## Our Partners
