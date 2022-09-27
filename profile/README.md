@@ -1,4 +1,4 @@
-![SamagraX - Logo](https://user-images.githubusercontent.com/80503666/192478957-151e96e8-bb70-4b59-9837-418dc58c8c0d.jpg)
+![SamagraX - Logo](https://user-images.githubusercontent.com/80503666/192479293-4202ed08-7085-4470-a222-ecf9beac52fd.jpg)
 
 At SamagraX, we build & shape open-source population-scale products, platforms & protocols, in the form of Building Blocks (BBs) and Digital Public Goods (DPGs) that empower governments to leverage technology and data to transform lives of millions. 
 
