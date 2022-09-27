@@ -10,7 +10,9 @@ We work across both these categories by either
 
 So far, we’ve shaped 10+ BBs and 3 DPGs to deliver on 20+ products across domains and states. 
 
-![SamagraX summary](https://user-images.githubusercontent.com/80503666/192439938-d32d3c48-9b1a-450f-b9b4-77818547cf89.jpg)
+![SamagraX summary](https://user-images.githubusercontent.com/80503666/192477510-f2fc35b0-b3fc-438e-bc9a-fc4fe90ef69c.jpg)
+
+
 Outlined below are some of the key contributions that we’ve made at SamagraX so far:
 
 1. Building Blocks (BBs)
@@ -77,8 +79,6 @@ For more details, please visit : Website | Github | Youtube | Discord | LinkedIn
 
 - Work From Campus (WFC) Program - WFC is a year-long internship opportunity for 3rd/4th year engineering students to get paid hands-on experience & exposure to the GovTech space. The program entails 1:1 personalized & structured coaching, exposure to DPG ecosystem through expert interactions and online forums, a 3-month product management course, rigorous field immersion visits for exposure to on-ground governance machinery and assured full-time opportunity with SamagraX as an owner of multiple GovTech building blocks and products. So far, 8 WFC interns have been onboarded in the current year.
 
-4. Our Partners
+**Our Partners**
 
-![Partners](https://user-images.githubusercontent.com/80503666/192440268-90d984a0-147c-4d90-a08f-e1017677f01a.jpg)
-
-
+![SamagraX - Partners](https://user-images.githubusercontent.com/80503666/192477697-7ab07274-d8db-49f6-b05b-719b8adf40d8.jpg)
