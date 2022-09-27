@@ -1,5 +1,4 @@
 ![SamagraX - Logo](https://user-images.githubusercontent.com/80503666/192479293-4202ed08-7085-4470-a222-ecf9beac52fd.jpg)
-
 **At SamagraX, we build & shape open-source population-scale products, platforms & protocols, in the form of Building Blocks (BBs) and Digital Public Goods (DPGs) that empower governments to leverage technology and data to transform lives of millions.** 
 
 [GovStack](https://www.govstack.global/) defines Building Blocks (BBs) as software code and applications that are interoperable, provide a basic digital service at scale, and can be reused for multiple use cases and contexts. Similarly, it defines Digital Public Goods (DPGs) as open-source software, open data, open AI models, open standards, and open content that adhere to privacy and other applicable laws and best practices, do no harm by design, and help attain the Sustainable Development Goals (SDGs). 
