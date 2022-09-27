@@ -16,7 +16,7 @@ Outlined below are some of the key contributions that we’ve made at SamagraX s
 
 **1. Building Blocks (BBs)**
 1.1. Built ourselves from scratch
-- User Service : An OIDC compliant extensible user authentication and authorization service that includes key features such as passwordless authentication and attribute based access control (ABAC).
+- [User Service](https://github.com/Samagra-Development/user-service) : An OIDC compliant extensible user authentication and authorization service that includes key features such as passwordless authentication and attribute based access control (ABAC).
 Key Adopters - Himachal Pradesh’s eSamwad App (1+ lac teachers), Uttar Pradesh’s Nipun Lakshya App (2+ lac  teachers, 4K mentors)
 
 - Template Manager : A REST API service to render, store, and manage templates with multiple features such as data transformation, lambda API, templater playground and support for multiple templating engines.
